@@ -14,6 +14,7 @@ How to run the application
 4. Open your browser.
 
 5. Enter the following in URL bar.
+
 https://localhost/DSCP/
 
 http://localhost/DSCP/
